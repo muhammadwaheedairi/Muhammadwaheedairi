@@ -1,3 +1,5 @@
+<a href="https://gitroll.io/profile/u7TyMs5JmWAcJcGDs2x4WSQAhPSk1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u7TyMs5JmWAcJcGDs2x4WSQAhPSk1?theme=light" alt="GitRoll Profile Badge"/></a>
+
 # 💫 About Me:
 👋 **Hey there! I’m Waheed** – a software developer with a passion for bringing ideas to life through clean code and creative design!  <br><br>🌟 **What I do?**  <br>I transform imagination into interactive, user-friendly web experiences. From crafting sleek UIs with **HTML**, **CSS**, and **JavaScript** to exploring the wonders of **TypeScript**, **React.js**, and **Next.js**, I’m always up for an adventure in the digital world.  <br><br>💡 **My secret sauce?**  <br>A pinch of curiosity, a dash of creativity, and a whole lot of caffeine ☕. I’m not just about writing code—I’m about crafting solutions that look great and work seamlessly.  <br><br>🚀 **Why me?**  <br>Because I don’t just build websites—I build experiences that users remember.  <br><br>Let’s create something amazing together! 😄  <br>
 
