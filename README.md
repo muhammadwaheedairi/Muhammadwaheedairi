@@ -31,7 +31,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=muhammadwaheedaree&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=muhammadwaheedairi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🔮 Portfolio Sneak Peek – What’s Coming?
 🚧 **Portfolio v1.0 in Progress!** 🚧<br>
@@ -42,10 +42,10 @@ I’m currently working on my **Portfolio v1.0** – a personal space to showcas
 🚀 **Ready to Collaborate?** <br>
 If you’re looking for a passionate developer to bring your vision to life, let’s connect!
 
-🔗 [Connect on LinkedIn](https://linkedin.com/in/muhammadwaheedairi) | 📧 **Email:** [muhammadwaheedaree128@gmail.com](mailto:muhammadwaheedaree128@gmail.com)
+🔗 [Connect on LinkedIn](https://linkedin.com/in/muhammadwaheedairi) | 📧 **Email:** [muhammadwaheedairi@gmail.com](mailto:muhammadwaheedaree128@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=muhammadwaheedaree&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=muhammadwaheedairi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
