@@ -20,7 +20,7 @@
 - **Python:** ███████ 35%
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=muhammadwaheedaree&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=muhammadwaheedairi&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadwaheedairi&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadwaheedairi&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
