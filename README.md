@@ -21,11 +21,11 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=muhammadwaheedaree&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadwaheedaree&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadwaheedaree&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadwaheedairi&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadwaheedairi&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muhammadwaheedaree&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=muhammadwaheedairi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -42,7 +42,7 @@ I’m currently working on my **Portfolio v1.0** – a personal space to showcas
 🚀 **Ready to Collaborate?** <br>
 If you’re looking for a passionate developer to bring your vision to life, let’s connect!
 
-🔗 [Connect on LinkedIn](https://linkedin.com/in/muhammadwaheedaree) | 📧 **Email:** [muhammadwaheedaree128@gmail.com](mailto:muhammadwaheedaree128@gmail.com)
+🔗 [Connect on LinkedIn](https://linkedin.com/in/muhammadwaheedairi) | 📧 **Email:** [muhammadwaheedaree128@gmail.com](mailto:muhammadwaheedaree128@gmail.com)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muhammadwaheedaree&icon=0&color=0)](https://visitcount.itsvg.in)
