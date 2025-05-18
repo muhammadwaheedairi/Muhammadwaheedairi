@@ -45,7 +45,7 @@ If you’re looking for a passionate developer to bring your vision to life, let
 🔗 [Connect on LinkedIn](https://linkedin.com/in/muhammadwaheedairi) | 📧 **Email:** [muhammadwaheedairi@gmail.com](mailto:muhammadwaheedaree128@gmail.com)
 
 ---
-https://github.com/Meghna-DAS/github-profile-views-counter
+[![](https://visitcount.itsvg.in/api?id=muhammadwaheedairi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
