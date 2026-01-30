@@ -39,36 +39,52 @@ I specialize in building **AI-powered automation systems** and **Digital Full-Ti
 ## 🛠️ Featured Projects
 
 ### 🎓 [Physical AI & Humanoid Robotics Textbook](https://github.com/muhammadwaheedairi/physical-ai-textbook)
-**AI-native educational platform with integrated RAG chatbot**
-
-An interactive textbook platform built with Docusaurus, featuring a production-ready RAG chatbot that answers questions based on book content. Uses OpenAI Agents SDK, FastAPI, Qdrant vector database, and Neon PostgreSQL.
+AI-native educational platform with integrated RAG chatbot. Interactive textbook built with Docusaurus, featuring production-ready conversational AI that answers questions based on book content using OpenAI Agents SDK, FastAPI, Qdrant vector database, and Neon PostgreSQL.
 
 **Tech Stack:** Next.js, FastAPI, OpenAI Agents SDK, Qdrant, Neon DB  
-**Live:** [Deployed on GitHub Pages](#)
+**Live:** Deployed on GitHub Pages
 
 ### ✅ [Spec-Driven Todo System](https://github.com/muhammadwaheedairi/todo-hackathon)
-**AI-powered task management with natural language interface**
-
-Building a todo application that evolves from console app to cloud-native chatbot. Implements MCP architecture, stateless conversation management, and Kubernetes deployment. Demonstrates the full Agentic Dev Stack workflow.
+AI-powered task management with natural language interface. Evolving from console app to cloud-native chatbot, implementing MCP architecture, stateless conversation management, and Kubernetes deployment. Demonstrates full Agentic Dev Stack workflow.
 
 **Tech Stack:** Next.js, FastAPI, OpenAI ChatKit, MCP SDK, Kubernetes, Helm  
 **Status:** Phase II (Full-stack web app) in progress
 
+### 🎭 [Portrait.so Landing Recreation](https://github.com/muhammadwaheedairi/portrait-landing)
+Pixel-perfect recreation of Portrait.so decentralized website builder landing page. Features 3D tilt effects, physics-based fly-in animations, interactive card stack, and responsive network diagram. Advanced UI interactions with scroll-triggered perspective animations.
+
+**Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, Framer Motion  
+**Live:** View demo
+
+### 🎨 [Superwhisper Clone](https://github.com/muhammadwaheedairi/superwhisper-clone)
+Pixel-perfect frontend recreation of Superwhisper landing page with functional AI writing demo. Complete landing page with hero, features, pricing, reviews, FAQ sections. Professional UI engineering showcase.
+
+**Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Lucide Icons  
+**Live:** [superwhisper-clone.vercel.app](https://superwhisper-clone.vercel.app/)
+
+### 📝 [NextHive Blog](https://github.com/muhammadwaheedairi/nexthive-blog)
+Modern blog platform with dynamic content, search functionality, and category filtering. Responsive design optimized for all devices with fast, efficient frontend experience.
+
+**Tech Stack:** Next.js 14, TypeScript, Tailwind CSS  
+**Live:** [nexthive-blog.vercel.app](https://nexthive-blog.vercel.app/)
+
 ### 🛍️ [OutfitPlus - E-commerce Marketplace](https://github.com/muhammadwaheedairi/OutfitPlus)
-**Full-featured fashion marketplace with headless CMS**
+Full-featured fashion marketplace developed in 7 days. Sanity CMS for product management, Firebase authentication, order processing, responsive design. Includes comprehensive testing and business pitch deck.
 
-A complete e-commerce platform developed in 7 days. Features Sanity CMS for product management, Firebase authentication, order processing, and responsive design. Includes comprehensive testing and business pitch deck.
-
-**Tech Stack:** Next.js, TypeScript, Sanity CMS, Firebase, Vercel  
+**Tech Stack:** Next.js, TypeScript, Sanity CMS, Firebase  
 **Live:** [outfit-plus.vercel.app](https://outfit-plus.vercel.app/)
 
-### 🎨 [UI/UX Design Implementation](https://github.com/muhammadwaheedairi/ui-ux-hackathone)
-**Pixel-perfect Figma to code conversion**
+### 🤖 [EduHaiku Agent](https://github.com/muhammadwaheedairi/eduhaiku-agent)
+CLI AI agent that detects educational topics and responds in haiku format using Gemini API. Topic detection with poetic 5-7-5 haiku responses, tested across 20+ educational topics.
 
-Built in 24 hours for Governor IT Initiative hackathon. Implemented a complete e-commerce design with dynamic routing, responsive layouts, and optimized performance. Achieved high scores in pixel-perfect implementation and responsiveness.
+**Tech Stack:** Python, Gemini API (OpenAI-compatible), CLI  
+**Status:** Published CLI tool
 
-**Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Custom CSS  
-**Live:** [ui-ux-hackathone-gamma.vercel.app](https://ui-ux-hackathone-gamma.vercel.app/)
+### 📚 [Personal Library Manager](https://github.com/muhammadwaheedairi/personal-library-manager)
+Command-line tool for managing personal book collections. Published on PyPI with features for adding books, viewing collections, searching by title, and deletion.
+
+**Tech Stack:** Python, CLI  
+**Published:** [PyPI Package](https://pypi.org/project/personal-library-manager/)
 
 ---
 
@@ -112,11 +128,15 @@ Built in 24 hours for Governor IT Initiative hackathon. Implemented a complete e
 
 ## 🎯 What I'm Doing
 
-**Building the Agent Factory** – Creating reusable intelligence through Agent Skills and SubAgents that can be deployed across multiple projects. Focusing on the convergence of General Agents (Claude Code) and Custom Agents (OpenAI/Claude SDKs).
+**Living in the future** – Building tools to make agentic engineering faster for everyone
 
-**Mastering Cloud-Native AI** – Implementing Kubernetes-based deployments, event-driven architectures with Kafka and Dapr, and AIOps practices using kubectl-ai and kagent.
+- **Spec-Driven AI Development** – Writing specifications first, AI generates implementation. Shifting from "syntax writer" to "system architect"
+- **Digital FTE Factory** – Creating reusable Agent Skills and SubAgents that deploy across multiple projects
+- **Cloud-Native AI** – Implementing Kubernetes deployments, event-driven architectures with Kafka/Dapr, AIOps with kubectl-ai
+- **Rapid Prototyping** – Full applications in days using agentic development stack
 
-**Spec-Driven Everything** – Writing specifications first, letting AI generate implementations. This shifts the role from "syntax writer" to "system architect."
+**Writing about AI workflows** – Sharing learnings on building production-ready agents  
+**Speaking at conferences** – On vibe-coding vs agentic engineering and the future of development
 
 ---
 
@@ -155,3 +175,9 @@ Focus areas: **Agentic workflows**, **Spec-driven architecture**, **Cloud-native
 ---
 
 *Building the future of work where humans manage outcomes and AI agents handle execution.*
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadwaheedairi&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
