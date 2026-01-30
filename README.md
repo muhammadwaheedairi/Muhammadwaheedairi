@@ -186,4 +186,14 @@ Focus areas: **Agentic workflows**, **Spec-driven architecture**, **Cloud-native
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadwaheedairi&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadwaheedairi&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadwaheedairi&theme=default&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadwaheedairi&theme=default&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
