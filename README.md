@@ -94,7 +94,6 @@ Command-line tool for managing personal book collections. Published on PyPI with
 [![Claude Code](https://img.shields.io/badge/Claude_Code-6B4FBB?style=flat)](https://www.anthropic.com/claude)
 [![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-orange?style=flat)](https://modelcontextprotocol.io/)
 [![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-green?style=flat)](https://python.langchain.com/docs/tutorials/rag/)
-[![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)](https://ai.google.dev/gemini-api/docs)
 
 ### Frontend
 [![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/docs)
