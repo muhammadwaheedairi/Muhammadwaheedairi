@@ -186,14 +186,4 @@ Focus areas: **Agentic workflows**, **Spec-driven architecture**, **Cloud-native
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muhammadwaheedairi&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=muhammadwaheedairi&theme=default&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muhammadwaheedairi&theme=default&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
+![](https://ghchart.rshah.org/muhammadwaheedairi)
