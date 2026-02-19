@@ -30,63 +30,8 @@ I specialize in building **AI-powered automation systems** and **Digital Full-Ti
 - Developing **RAG chatbots** with MCP integration for enterprise applications
 - Exploring **Physical AI** and humanoid robotics simulation
 
-**Writing about AI workflows** – Sharing learnings on building production-ready AI agents
-
-**Rapid prototyping** – Full applications in days, not months, using agentic development stack
-
 ---
 
-## 🛠️ Featured Projects
-
-### 🎓 [Physical AI & Humanoid Robotics Textbook](https://github.com/muhammadwaheedairi/hackathon_textbook_ai_robotics.git)
-AI-native educational platform with integrated RAG chatbot. Interactive textbook built with Docusaurus, featuring production-ready conversational AI that answers questions based on book content using OpenAI Agents SDK, FastAPI, Qdrant vector database, and Neon PostgreSQL.
-
-**Tech Stack:** Next.js, FastAPI, OpenAI Agents SDK, Qdrant, Neon DB  
-**Live:** [Deployed on GitHub Pages](https://muhammadwaheedairi.github.io/hackathon_textbook_ai_robotics/)
-
-### ✅ [Spec-Driven Todo System](https://github.com/muhammadwaheedairi/)
-AI-powered task management with natural language interface. Evolving from console app to cloud-native chatbot, implementing MCP architecture, stateless conversation management, and Kubernetes deployment. Demonstrates full Agentic Dev Stack workflow.
-
-**Tech Stack:** Next.js, FastAPI, OpenAI ChatKit, MCP SDK, Kubernetes, Helm  
-**Status:** Phase II (Full-stack web app) in progress
-
-### 🎭 [Portrait.so Landing Recreation](https://github.com/muhammadwaheedairi/Portrait-Frontend-Clone.git)
-Pixel-perfect recreation of Portrait.so decentralized website builder landing page. Features 3D tilt effects, physics-based fly-in animations, interactive card stack, and responsive network diagram. Advanced UI interactions with scroll-triggered perspective animations.
-
-**Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, Framer Motion  
-**Live:** View demo
-
-### 🎨 [Superwhisper Clone](https://github.com/muhammadwaheedairi/superwhisper-clone)
-Pixel-perfect frontend recreation of Superwhisper landing page with functional AI writing demo. Complete landing page with hero, features, pricing, reviews, FAQ sections. Professional UI engineering showcase.
-
-**Tech Stack:** Next.js 14, TypeScript, Tailwind CSS, Lucide Icons  
-**Live:** [superwhisper-clone](https://superwhisper-clone.vercel.app/)
-
-### 📝 [NextHive Blog](https://github.com/muhammadwaheedairi/nexthive-blog)
-Modern blog platform with dynamic content, search functionality, and category filtering. Responsive design optimized for all devices with fast, efficient frontend experience.
-
-**Tech Stack:** Next.js 14, TypeScript, Tailwind CSS  
-**Live:** [nexthive-blog](https://nexthive-blog.vercel.app/)
-
-### 🛍️ [OutfitPlus - E-commerce Marketplace](https://github.com/muhammadwaheedairi/OutfitPlus)
-Full-featured fashion marketplace developed in 7 days. Sanity CMS for product management, Firebase authentication, order processing, responsive design. Includes comprehensive testing and business pitch deck.
-
-**Tech Stack:** Next.js, TypeScript, Sanity CMS, Firebase  
-**Live:** [outfit-plus](https://outfit-plus.vercel.app/)
-
-### 🤖 [EduHaiku Agent](https://github.com/muhammadwaheedairi/eduhaiku-agent)
-CLI AI agent that detects educational topics and responds in haiku format using Gemini API. Topic detection with poetic 5-7-5 haiku responses, tested across 20+ educational topics.
-
-**Tech Stack:** Python, Gemini API (OpenAI-compatible), CLI  
-**Status:** Published CLI tool
-
-### 📚 [Personal Library Manager](https://github.com/muhammadwaheedairi/personal-library-manager.git)
-Command-line tool for managing personal book collections. Published on PyPI with features for adding books, viewing collections, searching by title, and deletion.
-
-**Tech Stack:** Python, CLI  
-**Published:** [PyPI Package](https://pypi.org/project/personal-library-manager/)
-
----
 ## 🔧 Tech Stack
 
 ### AI & Agents
@@ -130,55 +75,40 @@ Command-line tool for managing personal book collections. Published on PyPI with
 [![Spec-Kit Plus](https://img.shields.io/badge/Spec--Kit_Plus-4B32C3?style=flat)](https://github.com/panaversity/spec-kit-plus)
 [![Agent Skills](https://img.shields.io/badge/Agent_Skills-FF6B6B?style=flat)](https://docs.anthropic.com/en/docs/build-with-claude/agent-skills)
 [![TDD](https://img.shields.io/badge/Test--Driven_Development-25A162?style=flat)](https://testdriven.io/)
+
 ---
 
 ## 🎯 What I'm Doing
 
-**Living in the future** – Building tools to make agentic engineering faster for everyone
-
-- **Spec-Driven AI Development** – Writing specifications first, AI generates implementation. Shifting from "syntax writer" to "system architect"
-- **Digital FTE Factory** – Creating reusable Agent Skills and SubAgents that deploy across multiple projects
-- **Cloud-Native AI** – Implementing Kubernetes deployments, event-driven architectures with Kafka/Dapr, AIOps with kubectl-ai
+- **Spec-Driven AI Development** – Writing specifications first, AI generates implementation
+- **Digital FTE Factory** – Creating reusable Agent Skills and SubAgents across multiple projects
+- **Cloud-Native AI** – Kubernetes deployments, event-driven architectures with Kafka/Dapr
 - **Rapid Prototyping** – Full applications in days using agentic development stack
-
-**Writing about AI workflows** – Sharing learnings on building production-ready agents  
-**Speaking at conferences** – On vibe-coding vs agentic engineering and the future of development
 
 ---
 
 ## 🤝 Open for Projects
 
-I'm available for freelance projects involving:
-
-- **Digital FTE Development** – Building AI employees that work 24/7 on specific business processes
-- **AI Agent Solutions** – Custom agents for automation, customer support, data processing, or specialized workflows
-- **Full-Stack AI Applications** – End-to-end development of AI-powered web applications
-- **RAG & MCP Implementations** – Conversational AI systems with access to proprietary data and tools
-- **Spec-Driven Development Consulting** – Helping teams adopt AI-native development workflows
-
-**Approach:** I use spec-driven development to ensure clear requirements, predictable timelines, and maintainable codebases. Every implementation maps back to explicit specifications.
+- **Digital FTE Development** – AI employees for specific business processes
+- **AI Agent Solutions** – Custom agents for automation, support, or data processing
+- **Full-Stack AI Applications** – End-to-end AI-powered web apps
+- **RAG & MCP Implementations** – Conversational AI with proprietary data access
+- **Spec-Driven Consulting** – Helping teams adopt AI-native development workflows
 
 ---
 
 ## 📫 Connect
 
-**Let's build something intelligent together.**
-
 - 💼 **LinkedIn:** [muhammadwaheedairi](https://linkedin.com/in/muhammadwaheedairi)
 - 🐦 **Twitter/X:** [@mwaheedairi](https://x.com/mwaheedairi)
 - 🧵 **Threads:** [@muhammadwaheedairi](https://threads.net/@muhammadwaheedairi)
 - 📧 **Email:** [muhammadwaheedairi@gmail.com](mailto:muhammadwaheedairi@gmail.com)
-- 💬 **Discord:** Available for project discussions
 
 ---
 
 ## 💡 Philosophy
 
-> "Ship beats perfect" – I build tools to solve real problems, then share them with the community. Currently exploring how AI transforms software development from typing code to orchestrating intelligent systems.
-
-Focus areas: **Agentic workflows**, **Spec-driven architecture**, **Cloud-native AI**, **Digital automation**
-
----
+> "Ship beats perfect" – Building tools to solve real problems, then sharing them with the community.
 
 *Building the future of work where humans manage outcomes and AI agents handle execution.*
 
