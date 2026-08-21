@@ -22,13 +22,15 @@ Building AI agents that replace manual work. Vendor lock-in-free, always. You ke
 - 🎨 **[Portrait-Frontend-Clone](https://github.com/muhammadwaheedairi/Portrait-Frontend-Clone)** — pixel-perfect frontend clone
 - 🎙️ **[superwhisper-clone](https://github.com/muhammadwaheedairi/superwhisper-clone)** — Superwhisper landing page clone with a frontend AI demo
 
-## Tech Stack
-
-Python · FastAPI · Next.js · TypeScript · PostgreSQL · Docker · Kubernetes · OpenAI Agents SDK · MCP
-
 ## GitHub Activity
 
 ![](https://ghchart.rshah.org/muhammadwaheedairi)
+
+## What I'm Doing
+
+- Building Digital FTEs that replace manual, repetitive work
+- Shipping in public and documenting the process
+- Rapid prototyping — full AI applications in days, not months
 
 ## Connect
 
