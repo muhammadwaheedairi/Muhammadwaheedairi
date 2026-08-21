@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e4fc9c2a-30ea-4032-9fce-4a2e29cd4f9c" /># Hi, I'm Muhammad Waheed 👋
+# Hi, I'm Muhammad Waheed 👋
 
 📍 **Karachi, Pakistan** | 🤖 **AI Agent Developer**
 
