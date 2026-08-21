@@ -4,13 +4,13 @@
 
 Building AI agents that replace manual work. Vendor lock-in-free, always. You keep the code, the data, the servers.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI_Agents_SDK-412991?style=flat-square&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/-MCP-orange?style=flat-square)
-![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/docs)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.org/3/)
+[![OpenAI](https://img.shields.io/badge/-OpenAI_Agents_SDK-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.github.io/openai-agents-python/)
+[![MCP](https://img.shields.io/badge/-MCP-orange?style=flat-square)](https://gofastmcp.com/)
+[![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square)](https://qdrant.tech/documentation/)
 
 ## Projects
 
