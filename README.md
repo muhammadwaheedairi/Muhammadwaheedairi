@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Waheed 👋
+# Hi, I'm Waheed 👋
 
 📍 **Karachi ↔ Pakistan** | 💻 **Full-Stack Developer** | 🤖 **AI Agent Developer**
 
