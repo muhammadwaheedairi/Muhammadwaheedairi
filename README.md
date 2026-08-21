@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Waheed 👋
 
-📍 **Karachi, Pakistan** | 🤖 **AI Agent Developer**
+📍 **Karachi, Pakistan** | 💻 **Full-Stack Developer** | 🤖 **AI Agent Developer**
 
 Building AI agents that replace manual work. Vendor lock-in-free, always. You keep the code, the data, the servers.
 
