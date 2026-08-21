@@ -1,119 +1,88 @@
-# Muhammad Waheed
+# Hi, I'm Muhammad Waheed 👋
 
-**AI Agent Developer & Full-Stack Engineer**  
-Building Digital FTEs and Intelligent Automation Systems
+📍 **Karachi, Pakistan** | 🤖 **AI Agent Developer** | 🚀 **Digital FTE Builder**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/muhammadwaheedairi)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=x)](https://x.com/mwaheedairi)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:muhammadwaheedairi@gmail.com)
+Building **AI agents that replace manual work**; independent developer offering vendor lock-in-free AI systems where you own the code, the data, and the servers.
 
----
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI_Agents_SDK-412991?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-orange?style=flat-square)
 
-## 🚀 What I Build
+## Start Here
 
-I specialize in building **AI-powered automation systems** and **Digital Full-Time Equivalents (FTEs)** using spec-driven development. My work focuses on creating intelligent agents that handle complex workflows autonomously while maintaining enterprise-grade reliability.
+- 🤖 **[Multi-Channel-Customer-Success-Agent](https://github.com/muhammadwaheedairi/Multi-Channel-Customer-Success-Agent)** - a Digital FTE handling customer support across Email, WhatsApp, and Web
+- 💬 **[customer-support-agent](https://github.com/muhammadwaheedairi/customer-support-agent)** - the Next.js frontend for the customer support Digital FTE
+- 🤖 **[Personal-AI-Employee](https://github.com/muhammadwaheedairi/Personal-AI-Employee)** - a local-first autonomous AI Employee for emails, finances, and tasks
+- 🦾 **[hackathon_textbook_ai_robotics](https://github.com/muhammadwaheedairi/hackathon_textbook_ai_robotics)** - a personal AI-robotics portfolio built with ROS 2, Gazebo, and NVIDIA Isaac
 
-**Core Expertise:**
-- 🤖 **AI Agent Development** – Building autonomous systems with OpenAI Agents SDK, MCP, and RAG architectures
-- 📝 **Spec-Driven Development** – Using Claude Code and Agent Factory patterns for predictable, scalable solutions
-- ⚡ **Full-Stack AI Applications** – End-to-end development with Next.js, FastAPI, and serverless databases
-- 🔄 **Digital FTE Solutions** – Creating 24/7 autonomous workflows that replace manual processes
+## Current Projects
 
----
+### Digital FTEs & Customer Support
 
-## 💼 Current Focus
+- 🤖 **[Multi-Channel-Customer-Success-Agent](https://github.com/muhammadwaheedairi/Multi-Channel-Customer-Success-Agent)** - autonomous customer support agent across Email (Gmail API), WhatsApp (Twilio), and Web, with smart routing and sentiment analysis
+- 💬 **[customer-support-agent](https://github.com/muhammadwaheedairi/customer-support-agent)** - Next.js 16 frontend with Clerk v7 auth and a real-time admin dashboard for the support Digital FTE
+- 🧠 **[Personal-AI-Employee](https://github.com/muhammadwaheedairi/Personal-AI-Employee)** - monitors emails, finances, and tasks, executes workflows via MCP agents, and delivers weekly CEO briefings
 
-**Living in the future** – Learning and building tools to make agentic engineering faster for everyone.
+### AI & Robotics
 
-- Building **Digital FTEs** using Spec-Driven Development and Agent Skills
-- Implementing **Cloud-native AI deployments** with Kubernetes and Dapr
-- Developing **RAG chatbots** with MCP integration for enterprise applications
-- Exploring **Physical AI** and humanoid robotics simulation
+- 🦾 **[hackathon_textbook_ai_robotics](https://github.com/muhammadwaheedairi/hackathon_textbook_ai_robotics)** - AI-robotics portfolio covering ROS 2, Gazebo, NVIDIA Isaac, and VLA systems
 
----
+### Frontend Clones & UI Practice
 
-## 🔧 Tech Stack
+- 🎨 **[Portrait-Frontend-Clone](https://github.com/muhammadwaheedairi/Portrait-Frontend-Clone)** - pixel-perfect frontend clone focused on precise UI recreation and responsive layout
+- 🎙️ **[superwhisper-clone](https://github.com/muhammadwaheedairi/superwhisper-clone)** - pixel-perfect Superwhisper landing page clone with a frontend AI demo, built with Next.js and Tailwind CSS
 
-### AI & Agents
-[![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat&logo=openai&logoColor=white)](https://platform.openai.com/docs/guides/agents)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-6B4FBB?style=flat)](https://www.anthropic.com/claude)
-[![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-orange?style=flat)](https://modelcontextprotocol.io/)
-[![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-green?style=flat)](https://python.langchain.com/docs/tutorials/rag/)
+## Tech Stack
 
-### Frontend
-[![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/docs)
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/docs)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)](https://www.framer.com/motion/)
-[![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=flat&logo=docusaurus&logoColor=white)](https://docusaurus.io/docs)
+**AI & Agents:** OpenAI Agents SDK · Claude Code · Model Context Protocol (MCP) · RAG · pgvector
 
-### Backend
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![SQLModel](https://img.shields.io/badge/SQLModel-CC2927?style=flat)](https://sqlmodel.tiangolo.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/docs/)
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS
 
-### Databases & Storage
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/docs/)
-[![Neon DB](https://img.shields.io/badge/Neon_DB-00E699?style=flat)](https://neon.tech/docs/introduction)
-[![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat)](https://qdrant.tech/documentation/)
-[![Sanity CMS](https://img.shields.io/badge/Sanity-F03E2F?style=flat&logo=sanity&logoColor=white)](https://www.sanity.io/docs)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/docs)
+**Backend:** Python · FastAPI · Node.js
 
-### DevOps & Cloud
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://docs.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/)
-[![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)](https://helm.sh/docs/)
-[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/documentation/)
-[![Dapr](https://img.shields.io/badge/Dapr-0D2192?style=flat)](https://docs.dapr.io/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/docs)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://docs.github.com/actions)
+**Databases:** PostgreSQL · Neon DB · Qdrant · Sanity CMS · Firebase
 
-### Tools & Methodologies
-[![UV](https://img.shields.io/badge/UV-Package_Manager-6B4FBB?style=flat)](https://docs.astral.sh/uv/)
-[![Spec-Kit Plus](https://img.shields.io/badge/Spec--Kit_Plus-4B32C3?style=flat)](https://github.com/panaversity/spec-kit-plus)
-[![Agent Skills](https://img.shields.io/badge/Agent_Skills-FF6B6B?style=flat)](https://docs.anthropic.com/en/docs/build-with-claude/agent-skills)
-[![TDD](https://img.shields.io/badge/Test--Driven_Development-25A162?style=flat)](https://testdriven.io/)
+**DevOps & Cloud:** Docker · Kubernetes · Kafka · Dapr · Vercel · GitHub Actions
+
+## What I'm Doing
+
+- **Building Digital FTEs** - spec-driven AI agents that replace manual, repetitive work
+- **Shipping in public** - documenting builds and sharing the process with the community
+- **Rapid prototyping** - full AI applications in days, not months
+- **Writing about AI workflows** - sharing learnings on Medium and LinkedIn
+
+## GitHub Activity
+
+![](https://ghchart.rshah.org/muhammadwaheedairi)
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/-muhammadwaheedairi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadwaheedairi)
+[![X](https://img.shields.io/badge/-mwaheedairi-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mwaheedairi)
+[![Threads](https://img.shields.io/badge/-muhammadwaheedairi-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.net/@muhammadwaheedairi)
+[![Email](https://img.shields.io/badge/-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadwaheedairi@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammadwaheedairi)
 
 ---
 
-## 🎯 What I'm Doing
+### Philosophy
 
-- **Spec-Driven AI Development** – Writing specifications first, AI generates implementation
-- **Digital FTE Factory** – Creating reusable Agent Skills and SubAgents across multiple projects
-- **Cloud-Native AI** – Kubernetes deployments, event-driven architectures with Kafka/Dapr
-- **Rapid Prototyping** – Full applications in days using agentic development stack
-
----
-
-## 🤝 Open for Projects
-
-- **Digital FTE Development** – AI employees for specific business processes
-- **AI Agent Solutions** – Custom agents for automation, support, or data processing
-- **Full-Stack AI Applications** – End-to-end AI-powered web apps
-- **RAG & MCP Implementations** – Conversational AI with proprietary data access
-- **Spec-Driven Consulting** – Helping teams adopt AI-native development workflows
-
----
-
-## 📫 Connect
-
-- 💼 **LinkedIn:** [muhammadwaheedairi](https://linkedin.com/in/muhammadwaheedairi)
-- 🐦 **Twitter/X:** [@mwaheedairi](https://x.com/mwaheedairi)
-- 🧵 **Threads:** [@muhammadwaheedairi](https://threads.net/@muhammadwaheedairi)
-- 📧 **Email:** [muhammadwaheedairi@gmail.com](mailto:muhammadwaheedairi@gmail.com)
-
----
-
-## 💡 Philosophy
-
-> "Ship beats perfect" – Building tools to solve real problems, then sharing them with the community.
+> "Ship beats perfect." Build tools that solve real problems, then hand over the keys, your code, your data, your servers.
 
 *Building the future of work where humans manage outcomes and AI agents handle execution.*
 
----
+<details>
+<summary>Random Facts</summary>
 
-## 📊 GitHub Activity
+- Runs Claude Code and ChatGPT side by side on every project, compares the output before shipping
+- Fueled by Karachi chai, not coffee
+- Codes in English, jokes and pitches clients in Hinglish
+- Treats every client project like it has to survive without him, no vendor lock-in, ever
 
-![](https://ghchart.rshah.org/muhammadwaheedairi)
+</details>
