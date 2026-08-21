@@ -14,8 +14,8 @@ Building AI agents that replace manual work. Vendor lock-in-free, always. You ke
 
 ## Projects
 
-- 🤖 **[Multi-Channel-Customer-Success-Agent](https://github.com/muhammadwaheedairi/Multi-Channel-Customer-Success-Agent)** — Digital FTE for customer support across Email, WhatsApp, and Web
 - 💬 **[customer-support-agent](https://github.com/muhammadwaheedairi/customer-support-agent)** — Next.js + Clerk frontend for the support Digital FTE
+- 🤖 **[Multi-Channel-Customer-Success-Agent](https://github.com/muhammadwaheedairi/Multi-Channel-Customer-Success-Agent)** — Digital FTE for customer support across Email, WhatsApp, and Web
 - 🧠 **[Personal-AI-Employee](https://github.com/muhammadwaheedairi/Personal-AI-Employee)** — local-first AI Employee for emails, finances, and tasks
 - 🦾 **[hackathon_textbook_ai_robotics](https://github.com/muhammadwaheedairi/hackathon_textbook_ai_robotics)** — AI-robotics portfolio: ROS 2, Gazebo, NVIDIA Isaac
 - 🎨 **[Portrait-Frontend-Clone](https://github.com/muhammadwaheedairi/Portrait-Frontend-Clone)** — pixel-perfect frontend clone
