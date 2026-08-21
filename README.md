@@ -12,8 +12,7 @@ Building AI agents that replace manual work. Vendor lock-in-free, always. You ke
 [![MCP](https://img.shields.io/badge/-MCP-orange?style=flat-square)](https://gofastmcp.com/)
 [![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square)](https://qdrant.tech/documentation/)
 [![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/Command-line_interface)
-[![Claude Code](https://img.shields.io/badge/-Claude_Code-6B4FBB?style=flat-square)](https://docs.claude.com/en/docs/claude-code/overview)
-
+[![Claude Code](https://img.shields.io/badge/-Claude_Code-DA7756?style=flat-square)](https://docs.claude.com/en/docs/claude-code/overview)
 
 ## Projects
 
