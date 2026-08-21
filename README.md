@@ -4,14 +4,13 @@
 
 Building AI agents that replace manual work. Vendor lock-in-free, always. You keep the code, the data, the servers.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI_Agents_SDK-412991?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-orange?style=flat-square)
+![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square)
 
 ## Projects
 
@@ -34,9 +33,12 @@ Building AI agents that replace manual work. Vendor lock-in-free, always. You ke
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/-muhammadwaheedairi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadwaheedairi)
 [![X](https://img.shields.io/badge/-mwaheedairi-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mwaheedairi)
+[![LinkedIn](https://img.shields.io/badge/-muhammadwaheedairi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadwaheedairi)
 [![Email](https://img.shields.io/badge/-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadwaheedairi@gmail.com)
+[![Threads](https://img.shields.io/badge/-muhammadwaheedairi-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.net/@muhammadwaheedairi)
+[![Facebook](https://img.shields.io/badge/-muhammadwaheedairi-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/muhammadwaheedairi)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammadwaheedairi)
 
 ---
 
